@@ -1,0 +1,55 @@
+html {
+    font-family: 'Oxygen', sans-serif;
+}
+
+body {
+    background-color: #f7f7f7;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.img-container {
+    max-height: 250px;   
+    margin-bottom: 50px;
+}
+.img-form {
+    height: 100%;
+    width: 100%;
+}
+
+.applicationForm { 
+
+    margin: 35px;
+}
+
+.formInput{
+    margin-bottom: 10px;
+}
+
+/* Fields */
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #aaa;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #aaa;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #aaa;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    #aaa;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+   color:    #aaa;
+}
+/* Button */
+div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form .wpforms-page-button {
+   background-color: #00C5BE;
+   border: none;
+   color: #fff;
+   font-size: 1em;
+   padding: 10px 50px;
+   text-transform: uppercase;
+   font-weight: normal;
+}

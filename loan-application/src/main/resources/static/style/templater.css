@@ -1,0 +1,30 @@
+html {
+    font-family: 'Oxygen', sans-serif;
+}
+
+body {
+    width: 100%;
+    margin: 0 auto;
+    background: #FCFCFC;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.fullWidthDiv {
+    background-color: #C9C9C9;        
+    margin: 0 auto;
+    padding: 40px 0px;
+}
+
+.storyDiv {
+    width: 100%;
+    margin: 0 auto;
+}
+h4{
+    font-family: 'Oxygen', sans-serif;
+    color: dimgrey        
+}
+
+.selectBox {
+    font-family: 'Oxygen', sans-serif;
+    
+}
